@@ -46,3 +46,4 @@ def connect_to_database():
 
 def log_error(error):
     """Log an error."""
+pass - 
